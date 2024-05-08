@@ -18,8 +18,6 @@ To address this problem, we have developed a machine learning model that uses hi
 - **Model Selection and Evaluation:** Evaluation of different machine learning models to select the one that best fits our data and provides the highest accuracy.
 - **Predictive Modeling:** Development of a robust model that predicts client subscription to term deposits.
 
-This repository not only aids the bank in enhancing its marketing strategies but also provides insights into the factors that influence a client's decision to subscribe to a term deposit.
-
 ## Installation and Setup
 
 To get the project up and running on your local machine, follow these steps:
