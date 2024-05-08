@@ -62,6 +62,18 @@ This project includes several notable features that enhance the user experience 
 
 10. **Deployment**: Includes a deployment strategy to integrate the model with existing systems or to make it available as a standalone application.
 
+11. ### Model Performance Metrics
+
+The following table summarizes the performance metrics of the final model:
+
+| Metric    | Value |
+|-----------|-------|
+| Accuracy  | 0.95  |
+| Precision | 0.93  |
+| Recall    | 0.92  |
+
+These metrics indicate how well the model is performing.
+
 ## Project Structure
 
 This project is organized into several main directories and files, each serving a specific purpose in the development and execution of the application. Below is an overview of the key components:
