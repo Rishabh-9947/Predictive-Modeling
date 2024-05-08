@@ -33,7 +33,6 @@ Ensure you have the following installed:
 First, clone the repository to your local machine:
 
 bash
-git clone https://github.com/yourusername/yourprojectname.git
 cd yourprojectname
 pip install -r requirements.txt
 
