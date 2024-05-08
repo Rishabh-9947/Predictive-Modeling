@@ -62,7 +62,16 @@ This project includes several notable features that enhance the user experience 
 
 10. **Deployment**: Includes a deployment strategy to integrate the model with existing systems or to make it available as a standalone application.
 
-These features are designed to make the project not only functional but also intuitive and accessible for users with different levels of expertise.
+## Project Structure
+
+This project is organized into several main directories and files, each serving a specific purpose in the development and execution of the application. Below is an overview of the key components:
+
+- `data/`: This directory contains all the dataset files used in the project. 
+
+- `src/`: The source code for the entire project is stored in this directory. 
+
+- `requirements.txt`: This configuration file contains various parameters and settings that are used throughout the project. I
+
 
 
 ## Technologies Used
